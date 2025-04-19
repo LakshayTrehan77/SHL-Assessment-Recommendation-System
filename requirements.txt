@@ -1,9 +1,12 @@
 streamlit
 fastapi
 uvicorn
-langchain
-google-generativeai
-chromadb
-beautifulsoup4
 requests
+beautifulsoup4
+pandas
 pydantic
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+chromadb
