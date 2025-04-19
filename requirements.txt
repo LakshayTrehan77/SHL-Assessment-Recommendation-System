@@ -2,8 +2,8 @@ streamlit
 fastapi
 uvicorn
 langchain
-gemini-py
+google-generativeai
 chromadb
-bs4
+beautifulsoup4
 requests
 pydantic
